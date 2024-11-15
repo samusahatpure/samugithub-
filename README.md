@@ -1,3 +1,4 @@
+![logo](https://github.com/samusahatpure/samugithub-/blob/main/logog.jpg)
 <h1 align="center">Hi 👋, I'm Samruddhi Sahtpure</h1>
 <h3 align="center">I am Passionate about MERN STACK Development, problem solving, specially involving creativity with tech.I am an enthusiastic learner I always on the lookout for new opportunities.
 </h3>
